@@ -1,0 +1,4 @@
+// Component Nút bấm
+.button {
+  @include button-style($primary-color);
+}
